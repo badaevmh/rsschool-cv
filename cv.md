@@ -1,5 +1,5 @@
 <h1 align="center">Бадаев Магомед-Хусейн</h1>
-<h2 align="center">Обратная связь: <a href="">@gmail</a><a href="badaevmh@gmail.com">@gmail</a></h2>
+<h2 align="center">Обратная связь:</h2>
 <h3>gmail: badaevmh@gmail.com</h3>
 <h3>discord: huseyn#7262</h3>
 <h2 align="center">На данный момент работаю педагогом. Обучаю детей веб-технологиям. Стремлюсь стать front-end разработчиком. Рассматриваю площадку rs.school, как отличную возможность для реализации данной цели.</h2>
