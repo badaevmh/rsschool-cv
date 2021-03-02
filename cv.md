@@ -1,5 +1,5 @@
 <h1 align="center">Бадаев Магомед-Хусейн</h1>
-<h2 align="center">Обратная связь: badaevmh@gmail.com</h2>
+<h2 align="center">Обратная связь: <a href="badaevmh@gmail.com">GMAIL</a></h2>
 <h2 align="center">На данный момент работаю педагогом. Обучаю детей веб-технологиям. Стремлюсь стать front-end разработчиком. Рассматриваю площадку rs.school, как отличную возможность для реализации данной цели.</h2>
 <h3 align="center">Примеры работ: <a href="https://makecs75.ru">makecs75 курсы</a></h3>
 <p align="center">Опыта работы конкретно в front-end сфере - нет.
